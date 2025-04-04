@@ -32,6 +32,12 @@ https://drive.google.com/file/d/1Z2k6EgYaP7SktAVW8cbVutFP_zaTH8xj/view?usp=drive
 
 ---
 
+## 📄 Report File
+
+https://drive.google.com/file/d/1QPRU3anDxjCkegR5xMAm_oKilLdYYPgZ/view?usp=drive_link
+
+---
+
 ## 📷Screenshots
 
 - Home page(image-1.png)
