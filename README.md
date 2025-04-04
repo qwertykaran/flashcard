@@ -33,6 +33,8 @@ Home(image-3.png)
 Flashcard(image-4.png)
 Quiz(image-5.png)
 
+---
+
 ## 📦 Installation
 
 git clone https://github.com/qwertykaran/edutrack.git
@@ -40,11 +42,16 @@ cd edutrack
 npm install
 npm start
 
+---
+
 ## 🙌 Contributing
 
 Pull requests are welcome...
 
+---
+
 ## 🔗 Connect
 
 Built with ❤️ by Karan Soni (https://github.com/qwertykaran)
-#
+
+---
