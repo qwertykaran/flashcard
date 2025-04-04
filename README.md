@@ -32,11 +32,11 @@ https://drive.google.com/file/d/1Z2k6EgYaP7SktAVW8cbVutFP_zaTH8xj/view?usp=drive
 
 ## 📷Screenshots
 
--Home page(image-1.png)
--Dashboard(image-2.png)
--Home(image-3.png)
--Flashcard(image-4.png)
--Quiz(image-5.png)
+- Home page(image-1.png)
+- Dashboard(image-2.png)
+- Home(image-3.png)
+- Flashcard(image-4.png)
+- Quiz(image-5.png)
 
 ---
 
