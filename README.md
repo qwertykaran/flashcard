@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1Z2k6EgYaP7SktAVW8cbVutFP_zaTH8xj/view?usp=drive
 
 ## 📦 Installation
 
-git clone https://github.com/qwertykaran/edutrack.git
+git clone https://github.com/qwertykaran/flashcard.git
 cd edutrack
 npm install
 npm start
