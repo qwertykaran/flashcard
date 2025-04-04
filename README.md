@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, HTML5, CSS3
+- **Frontend**: TypeScript, HTML5, CSS3
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Hosting**: Vercel (Frontend), Render/Heroku (Backend)
