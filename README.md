@@ -3,7 +3,7 @@
 **EduTrack** is a full-featured educational platform designed to help students track their academic performance, revise smarter with flashcards, and stay consistent with their studies. Built with modern web technologies, it’s fast, responsive, and easy to use.
 ---
 
-## 🚀 Live Website link: https://v0-study-flashcard-maker.vercel.app/
+## 🔴 Live Website link: https://v0-study-flashcard-maker.vercel.app/
 ---
 
 ## 🚀 Features
